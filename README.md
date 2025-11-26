@@ -1,9 +1,10 @@
 # CYBR8470 Projects 1 & 2
-Fellowship of the Ping is a community of IT professionals. This repo contains documentation and links to the frontend and backend of 
+Fellowship of the Ping is a community of IT professionals. This repo contains documentation and links to the frontend and backend of the corresponding web application
 
 [User Stories](./docs/User%20Stories.md)
 
 [Diagrams](./docs/Diagrams.md)
+
 [Vulnerability Scanner](https://github.com/stuartmaxwell/djcheckup)
 
 ## [Frontend (Live)](https://fotp.it.com/)
