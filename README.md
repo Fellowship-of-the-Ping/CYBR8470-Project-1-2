@@ -7,7 +7,7 @@ Fellowship of the Ping is a community of IT professionals. This repo contains do
 
 [Vulnerability Scanner](https://github.com/stuartmaxwell/djcheckup)
 
-## [Frontend (Live)](https://fotp.it.com/)
+## [(Live) Frontend ](https://fotp.it.com/)
  [Hosted via github pages](https://github.com/Fellowship-of-the-Ping/Fellowship-of-the-Ping.github.io)
 
 ## BackEnd 
