@@ -13,7 +13,7 @@ Fellowship of the Ping is a community of IT professionals. This repo contains do
 ## BackEnd 
 (In Dev) [Newsletter registration; Hosted in AWS, repository is in Github](https://github.com/Fellowship-of-the-Ping/FOTP-backend)
 
-(Live) [Mail; Hosted via Private Email](https://mailbox.fotp.it.com)
+(Live) [Mail; Hosted via Private Email](https://webmail.fotp.it.com)
 
 (In Dev)[CalDav for a centralized event calendar; research stage]()
 
