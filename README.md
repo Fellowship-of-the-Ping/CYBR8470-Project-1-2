@@ -6,16 +6,15 @@ Fellowship of the Ping is a community of IT professionals. This repo contains do
 [Diagrams](./docs/Diagrams.md)
 
 ## Frontend
-[(Live) Homepage; Hosted via github pages](https://fotp.it.com/)
+[(Live) Homepage; Hosted via GitHub Pages](https://fotp.it.com/)
 
 ## BackEnd 
 (Live) [Newsletter; Hosted via Kit](https://fotp.kit.com)
 
 (Live) [Mail; Hosted via Private Email](https://privateemail.com)
 
-(In Dev) [CalDav; hosted via AWS]()
+(In Dev) [CalDav; Hosted via AWS]()
 
-(In Dev) [CardDav; hosted via AWS]()
-
+(In Dev) [CardDav; Hosted via AWS]()
 
 [MIT License](./LICENSE)
