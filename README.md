@@ -6,7 +6,7 @@ Fellowship of the Ping is a community of IT professionals. This repo contains do
 [Diagrams](./docs/Diagrams.md)
 
 ## Frontend
-[(Live) Website Hosted via github pages](https://fotp.it.com/)
+[(Live) Homepage; Hosted via github pages](https://fotp.it.com/)
 
 ## BackEnd 
 (Live) [Newsletter; Hosted via Kit](https://fotp.kit.com)
