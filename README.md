@@ -11,7 +11,7 @@ Fellowship of the Ping is a community of IT professionals. This repo contains do
  [Hosted via github pages](https://github.com/Fellowship-of-the-Ping/Fellowship-of-the-Ping.github.io)
 
 ## BackEnd 
-(Live) [Newsletter registration; Hosted via Kit](https://fotp.kit.com)
+(Live) [Newsletter; Hosted via Kit](https://fotp.kit.com)
 
 (Live) [Mail; Hosted via Private Email](https://privateemail.com)
 
