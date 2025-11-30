@@ -2,8 +2,7 @@
 ## User Stories
 <!-- As a **user/role**, I want to **goal** so I can **rationale** -->
 - As a **Anonymous User**, I want to **signup for a mailing list** so I can **recieve a newsletter**
-  - Definition of Done
-    - Set up a Form and attach it to Webpage.
+  - Set up a Form and attach it to Webpage.
 - As a **Public Relations Specialist**, I want to **send a newsletter** so I can **create engagement**
     - Set up Email Automation Platform
 - As a **FOTP Member**, I want to **view a calendar** so I can **find events near me**
