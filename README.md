@@ -12,7 +12,7 @@ Fellowship of the Ping is a community of IT professionals. This repo contains do
 ## BackEnd 
 (Live) [Newsletter; Hosted via Kit](https://fotp.kit.com)
 
-(Live) [Mail; Hosted via Private Email](https://privateemail.com)
+(Free Trial) [Mail; Hosted via Private Email](https://privateemail.com)
 
 (In Dev) [CalDav; Hosted On-prem]()
 
